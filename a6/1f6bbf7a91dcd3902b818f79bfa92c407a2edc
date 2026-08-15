@@ -1,0 +1,14 @@
+python/sglang/srt/hardware_backend/npu/attention/ascend_backend.py
+  h_a73ec97772d974 1561
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "a61f6bbf7a91dcd3902b818f79bfa92c407a2edc",
+  "prompts": {},
+  "humans": {
+    "h_a73ec97772d974": {
+      "author": "Estrella-xx <820167017@qq.com>"
+    }
+  }
+}
