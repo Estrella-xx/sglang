@@ -1,0 +1,14 @@
+python/sglang/srt/layers/attention/vision.py
+  h_a73ec97772d974 878,886-921,933-941
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "e1607ebfab9c111c6dad3c9eb13cc9ef2c525c2a",
+  "prompts": {},
+  "humans": {
+    "h_a73ec97772d974": {
+      "author": "Estrella-xx <820167017@qq.com>"
+    }
+  }
+}
